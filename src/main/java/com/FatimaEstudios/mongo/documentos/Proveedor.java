@@ -19,7 +19,7 @@ public class Proveedor {
 
 
 	   
-	   /*CONSTRUCTO*/
+	   /*CONSTRUCTOR*/
 	   
 	   /*Representa un data de la bd mongo*/
 	   
